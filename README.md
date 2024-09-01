@@ -3,6 +3,7 @@
 - Learning Blender & Python
 - Ready to collaborate on any projects
 - Contact me via discordapp.com/users/_glb_
+- IK slippers are FIRE
 
 <!---
 gleb00shek/gleb00shek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
