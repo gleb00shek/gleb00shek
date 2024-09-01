@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gleb00shek 
 - 👀 I’m interested in Flipper Zero
-- 🌱 I’m currently learning Blender
-- 🫂 I’m looking to collaborate on all the projects I want to help with
+- 🌱 Learning Blender & Python
+- 🫂 I’m looking to collaborate on any projects out there!
 - 📫 You can contact me via discordapp.com/users/_glb_
 
 <!---
